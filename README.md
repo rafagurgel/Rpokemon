@@ -34,7 +34,7 @@ They are also divided in Types, being in 1 or 2 types of the following classes:
 - Steel
 - Water
 
-All data is collected from [Serebii](https://www.serebii.net) and saved in a .csv format in order to reduce the computational load in the server. The (serebii.R file)[https://raw.githubusercontent.com/rafagurgel/Rpokemon/master/serebii.R] performs this calculations.
+All data is collected from [Serebii](https://www.serebii.net) and saved in a .csv format in order to reduce the computational load in the server. The [serebii.R file](https://raw.githubusercontent.com/rafagurgel/Rpokemon/master/serebii.R) performs this calculations.
 
 There are 5 functional tabs and 1 tab with informations.
 
